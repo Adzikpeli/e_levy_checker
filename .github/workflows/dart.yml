@@ -42,3 +42,9 @@ jobs:
       # want to change this to 'flutter test'.
       - name: Run tests
         run: dart test
+        
+      - name: Setup Flutter SDK
+        uses: flutter-actions/setup-flutter@v1
+        with:
+          sdk: stable
+          version: 2.0.2
