@@ -1,6 +1,6 @@
 # e_levy_checker
 
-A new Flutter project.
+A new Flutter project to check the amount of tax to pay as eLevy.
 
 ## Getting Started
 
